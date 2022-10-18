@@ -1,0 +1,28 @@
+{
+  "todos": [
+    {
+      "id": 2,
+      "deadline": "Today",
+      "text": "To Do List 앱 만들기",
+      "toggle": "doing"
+    },
+    {
+      "id": 3,
+      "deadline": "ThisWeek",
+      "text": "알고리즘 공부하기",
+      "toggle": "todo"
+    },
+    {
+      "id": 4,
+      "deadline": "ThisMonth",
+      "text": "친구 생일선물 보내기",
+      "toggle": "todo"
+    },
+    {
+      "id": 5,
+      "deadline": "Someday",
+      "text": "멋진 개발자 되기",
+      "toggle": "doing"
+    }
+  ]
+}
